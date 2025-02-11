@@ -86,7 +86,7 @@ We welcome contributions! 🎉 If you want to improve the project, feel free to:
 ### user Tasks section
 ![Screenshot 3](https://github.com/abhiram-1729/Django-To-Do-list-with-user-authentication/blob/main/images/tasks.png)
 ### creation of the tasks section
-![Screenshot 4](https://github.com/abhiram-1729/Django-To-Do-list-with-user-authentication/blob/main/images/new%20tasks%20creation.png)
+![Screenshot 4]()
 
 
 
