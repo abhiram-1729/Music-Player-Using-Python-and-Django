@@ -79,14 +79,13 @@ We welcome contributions! 🎉 If you want to improve the project, feel free to:
 - **Submit a pull request** with detailed explanations  
 
 ## Screenshots
-### This is the Login Page where we should add username and password
-![Screenshot 1](https://github.com/abhiram-1729/Django-To-Do-list-with-user-authentication/blob/main/images/login.png)
-### This is the registration section for the new users
-![Screenshot 2](https://github.com/abhiram-1729/Django-To-Do-list-with-user-authentication/blob/main/images/register.png)
-### user Tasks section
-![Screenshot 3](https://github.com/abhiram-1729/Django-To-Do-list-with-user-authentication/blob/main/images/tasks.png)
-### creation of the tasks section
-![Screenshot 4]()
+### Screenshot-1
+![Screenshot 1](https://github.com/abhiram-1729/Music-Player-Using-Python-and-Django/blob/main/media/2025-02-11%20-%2019_11_22%20-%20music%20player.png)
+### Screenshot-2
+![Screenshot 2](https://github.com/abhiram-1729/Music-Player-Using-Python-and-Django/blob/main/media/2025-02-11%20-%2019_12_15%20-%20music%20player.png)
+### Screenshot-3
+![Screenshot 3](https://github.com/abhiram-1729/Music-Player-Using-Python-and-Django/blob/main/media/2025-02-11%20-%2019_12_26%20-%20music%20player.png)
+
 
 
 
