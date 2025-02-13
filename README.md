@@ -12,7 +12,6 @@
   - [📌 Managing Music Library](#-managing-music-library)  
 - [🔮 Next Steps](#-next-steps)  
 - [💡 Contributing](#-contributing)  
-- [📝 License](#-license)  
 
 ## 📖 Introduction  
 
@@ -35,9 +34,6 @@ The **Music Player Using Python and Django** is a feature-rich web-based applica
 - **Authentication:** Django's built-in authentication system  
 - **APIs:** Third-party APIs for lyrics synchronization  
 
-## 🚀 Getting Started  
-
-To set up and run the music player on your local machine, follow these steps.  
 
 ### 📋 Prerequisites  
 
